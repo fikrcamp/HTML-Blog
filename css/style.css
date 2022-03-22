@@ -1,0 +1,29 @@
+body{
+  
+   background-color: rgb(128, 214, 240);
+
+}
+
+img{
+    width: 500px;
+    height: 200px;
+}
+footer{
+    background-color: rgb(22, 130, 202);
+    margin-left: 0;
+    text-align: center;
+    color: white;
+    font-weight: 200;
+    height: 50px;
+    font-size: 20px;
+}
+h1{
+    color: rgb(50, 32, 207);
+
+}
+h2{
+    color: blue;
+}
+.div{
+    margin-left: 10%;
+}
