@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: aquamarine;
+}
+#head{
+    background-color:beige;
+    font-family: sans-serif;
+    border-style:dashed;
+    border-color:black
+    border-width: 10px;
+    border-radius: 10px;   
+    text-align: center;
+    
+}
+#image{
+    width: 30%;
+    height: 30%;
+    float:right ; margin: 20px
+}
+#area{
+    
+    font-family: cursive;
+    
+   
+    }
+    .large-text{
+        font-size: 30px;
+    }
+    #area{
+        margin: 20px 20px 20px 20px;
+    }
+    #population{
+        margin: 20px 20px 20px 20px;
+    }
+    #economy{
+        margin: 20px 20px 20px 20px;
+    }
+    
