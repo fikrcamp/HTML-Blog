@@ -1,0 +1,19 @@
+.title{
+    font-size:normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center; 
+    color: rgb(219, 183, 183);
+    border-color: white;
+    background-color: black;
+}
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    border-top:1px solid rgb(100, 144, 185);
+    color: rgb(132, 198, 240);
+    background-color: black;
+    font-style: italic;
+}
