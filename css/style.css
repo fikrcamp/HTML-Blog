@@ -17,7 +17,7 @@ body{
 }
 #image{
     width: 30%;
-    height: 30%;
+    height: 30%%;
     float:right ; margin: 20px
 }
 #area{
@@ -38,4 +38,16 @@ body{
     #economy{
         margin: 20px 20px 20px 20px;
     }
-    
+    footer{
+        background-color: beige;
+        border-width: 3px;
+        border-style:solid;
+        font-size: 20px;
+        margin-top: 250px;
+        float: left; margin-left: 450px;
+        text-align: center;
+
+    }
+    #links{
+        font-family: cursive;
+    }
