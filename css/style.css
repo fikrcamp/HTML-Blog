@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: hsl(1, 1%, 98%);
+    font-size: 1rem;
+    font-family: monospace;
+}
+
+.container {
+    text-align: start;
+    width: 70%;
+}
+
+.header {
+    margin: 20px 100px 30px;
+}
+
+.articles {
+    margin: 10px 100px;
+}
+
+img {
+    width: 80%;
+    height: 300px;
+    margin: 10px;
+    object-fit: cover;
+}
+
+.article {
+    margin: 30px 20px;
+}
+
+.article > p {
+    margin: 10px;
+}
+
+.footer {
+    border-top: 1px solid #000;
+
+    margin: 50px 30px 10px;
+    padding: 10px;
+}
