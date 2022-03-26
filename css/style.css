@@ -16,9 +16,9 @@ body{
     
 }
 #image{
-    width: 30%;
-    height: 30%%;
-    float:right ; margin: 20px
+   width: 50%;
+    height: 50%%;
+    
 }
 #area{
     
@@ -42,12 +42,26 @@ body{
         background-color: beige;
         border-width: 3px;
         border-style:solid;
-        font-size: 20px;
-        margin-top: 250px;
-        float: left; margin-left: 450px;
         text-align: center;
+        
+        
 
     }
     #links{
         font-family: cursive;
+        align-text:center;
+        
+
     }
+    .boxes{
+        display: flex;
+        
+    }
+    .pics{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+       
