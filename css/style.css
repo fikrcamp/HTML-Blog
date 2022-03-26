@@ -1,0 +1,16 @@
+.body {
+  text-align: center;
+  background-color: azure;
+}
+.header {
+  padding: 10px;
+}
+.main {
+  margin: 10px;
+}
+.ul {
+  position: absolute;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
