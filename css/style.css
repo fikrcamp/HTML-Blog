@@ -12,8 +12,8 @@ body {
 }
 
 .container {
-    text-align: start;
-    width: 70%;
+    text-align: justify;
+    width: 100%;
 }
 
 .header {
@@ -21,27 +21,30 @@ body {
 }
 
 .articles {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
     margin: 10px 100px;
 }
 
+.article {
+    width: 30%;
+}
 img {
     width: 80%;
-    height: 300px;
-    margin: 10px;
-    object-fit: cover;
-}
-
-.article {
-    margin: 30px 20px;
+    height: 200px;
+    object-fit: fill;
+    margin: 20px;
+    border-radius: 10px;
 }
 
 .article > p {
-    margin: 10px;
+    margin: 5px;
 }
 
 .footer {
+    font-style: italic;
     border-top: 1px solid #000;
-
     margin: 50px 30px 10px;
     padding: 10px;
 }
