@@ -1,0 +1,67 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: aquamarine;
+}
+#head{
+    background-color:beige;
+    font-family: sans-serif;
+    border-style:dashed;
+    border-color:black
+    border-width: 10px;
+    border-radius: 10px;   
+    text-align: center;
+    
+}
+#image{
+   width: 50%;
+    height: 50%%;
+    
+}
+#area{
+    
+    font-family: cursive;
+    
+   
+    }
+    .large-text{
+        font-size: 30px;
+    }
+    #area{
+        margin: 20px 20px 20px 20px;
+    }
+    #population{
+        margin: 20px 20px 20px 20px;
+    }
+    #economy{
+        margin: 20px 20px 20px 20px;
+    }
+    footer{
+        background-color: beige;
+        border-width: 3px;
+        border-style:solid;
+        text-align: center;
+        
+        
+
+    }
+    #links{
+        font-family: cursive;
+        align-text:center;
+        
+
+    }
+    .boxes{
+        display: flex;
+        
+    }
+    .pics{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+       
