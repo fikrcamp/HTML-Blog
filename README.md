@@ -2,7 +2,7 @@
 
 ## Setup
 
-First step is to fork this repo into your own Github account 
+First step is to fork this repo into your own Github account
 
 ## Homework
 

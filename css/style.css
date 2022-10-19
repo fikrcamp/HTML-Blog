@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 1.1rem;
+ word-spacing: 4px;
+}
+body{
+  background-image: url(/pictures/background.jpg);
+}
+
+.article {
+  width: 900px;
+  height: 600px;
+  padding: 50px;
+  margin: 10px ;
+  margin-left: 80px;
+  display: inline-block;
+  overflow: auto;
+ 
+  
+  
+  
+}
+.title{
+  text-align: center;
+  font-weight: bolder;
+  color:  #0896d8;
+  margin-bottom: 10px;
+}
+.pictures {
+  width:  23rem;
+border-radius: 8px;
+object-fit: cover;
+float: left;
+}
+
+.Aone {
+  border-left: #0896d8 solid 2px;
+}
+.Athree {
+  border-right: #0896d8 solid 2px;
+}
+
+footer {
+  text-align: center;
+  margin: 30px;
+  color: #0896d8;
+}
+
