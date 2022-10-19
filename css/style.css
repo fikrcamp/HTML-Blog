@@ -1,0 +1,56 @@
+p{
+
+    color: blue;
+}
+
+h1{
+    color:red
+
+}
+
+h1{
+    background-color: black;
+
+}
+h2{
+    color:chocolate
+}
+h3{
+    color:darkmagenta
+}
+
+h3{
+    border-style: double;  
+    border-bottom-left-radius: initial;  
+    
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+    
+
+.footer-container {
+    background-color: #212328;
+    
+
+}
+
+.footer{
+    width: 80%;
+    height: 25vh;
+    background-color: #925553;
+    color: hsl(0, 8%, 76%);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.footer-heading{
+    display: flex;
+    flex-direction: column;
+    margin margin-right: 4em;
+}
