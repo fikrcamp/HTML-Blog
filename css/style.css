@@ -25,7 +25,6 @@ header {
 }
 
 h1 {
-    
     height: 110px;
     margin: auto;
     color: #332409;
@@ -68,4 +67,15 @@ h2 {
 }
 nav li a:hover, nav li a.current {
     color: #ffffff;
+}
+
+.break {
+    height: 1px;
+    background-color: black;
+}
+
+footer {
+    background-color: #c4bdbd;
+    font-size: 16px;
+    text-align: left;
 }
