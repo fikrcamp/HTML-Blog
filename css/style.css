@@ -1,0 +1,26 @@
+header{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+img{
+    width: 350px;
+    height: 250px;
+    text-align: center;
+}
+h4{
+    font-size: 25px;
+    font-style: italic;
+}
+p{
+    font-style: oblique;
+    font-weight: 100px;
+    background:rgb(240, 235, 235);
+    border-radius: 20px;
+    color: rgb(158, 108, 108);
+}
+footer{
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
