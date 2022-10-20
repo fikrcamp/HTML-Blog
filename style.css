@@ -1,0 +1,137 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+}
+
+main img {
+    width: 100%;
+    height: 500px;
+}
+
+main header h1 {
+    font-size: 3rem;
+    font-family: 'Playball', cursive;
+    font-weight: 900;
+    text-align: center;
+    padding: 20px;
+    border-top: 35px solid #084C8C;
+    color: #084C8C;
+}
+
+main h2 {
+    font-family: 'Italianno', cursive;
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px;
+    color: #084C8C;
+    border-bottom: 1px solid #084C8C;
+}
+
+.container img {
+    width: 300px;
+    height: 250px;
+}
+
+main .container {
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+
+main .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+    gap: 5px;
+
+
+
+
+}
+
+main .container .d {
+
+    flex: 1;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid pink;
+
+
+
+}
+
+main .container .d h3 {
+    text-align: center;
+    padding: 5px;
+    color: #084C8C;
+}
+
+main .container .d p {
+    text-align: start;
+    text-align: justify;
+    padding: 5px;
+
+}
+
+main .container .d a {
+    background-color: palevioletred;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    display: block;
+    text-align: center;
+
+    border-radius: 5px;
+
+
+
+}
+
+
+
+
+
+footer {
+    background-color: #084C8C;
+    color: white;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    margin: auto;
+}
+
+footer h4 {
+    
+    text-align: center;
+    padding: 5px 0px 0px 0px;
+    font-weight: 400;
+}
+
+footer p {
+    font-weight: 400;
+    text-align: center;
+
+
+}
+
+@media screen and (max-width:1000px) {
+    main .container {
+        flex-direction: column;
+    }
+
+    main .container .d h3 {
+        text-align: start;
+    }
+
+
+}
