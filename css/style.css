@@ -1,0 +1,53 @@
+.body{
+    margin-left: 50px;
+    
+}
+.head{
+    background-color: grey;
+    opacity: 10px;
+   height: 100px;
+
+}
+.head H1{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.menu{
+    margin-left: 5px;
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+.content h1{
+    font-family: monospace;
+}
+ 
+.content p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+.content img{
+    width: 500px;
+    height: 210px;
+}
