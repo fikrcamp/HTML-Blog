@@ -1,15 +1,11 @@
 * {
     box-sizing: border-box;
-    opacity: 1;
   }
 
   
   body {
     font-family: Arial;
     padding: 20px;
-    /*background-image: url(ZERO.jpg);
-    background-color: rgb(142, 210, 233);*/
-
   }
   
   /* Header/Blog Title */
